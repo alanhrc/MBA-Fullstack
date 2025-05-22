@@ -7,6 +7,11 @@ Design dirigido à domínio
 <a href="https://efficient-sloth-d85.notion.site/Gloss-rio-DDD-3a81b4df36d348a299ccbc53f38a1665" target="_blank">
 Link</a>
 
+## Link Desafio
+
+<a href="https://efficient-sloth-d85.notion.site/Atividade-Mapeando-o-dom-nio-38963358ffd74289b824ff73b187165d" target="_blank">
+Link</a>
+
 ## Domínio
 
 - Domain Experts
